@@ -8,6 +8,7 @@
 <h2>📝 My Blogs:</h2>
 
 - [Nation-State Cyber Espionage: Navigating the Digital Battleground](https://www.linkedin.com/pulse/nation-state-cyber-espionage-navigating-digital-bruno-lima-gotbc/)
+- [The Evolution of Cyber Threats](https://www.linkedin.com/pulse/evolution-cyber-threats-bruno-lima-vgrxf)
 
 <h2> ⚡ Certifications:</h2>
 
