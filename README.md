@@ -4,6 +4,8 @@
 
 - <b>Building An At-Home SOC Lab </b>
   - [At-Home SOC Lab Overview](https://github.com/BrunoLimaCyber/Building-an-At-Home-SOC-Lab)
+- <b>Running my First Vulnerability Scan - BurpSuite </b>
+  - [Exploring with BurpSuite Tools](https://github.com/BrunoLimaCyber/FirstVulnerabilityScan)
 
 <h2>📝 My Blogs:</h2>
 
