@@ -11,6 +11,7 @@
 
 - [Nation-State Cyber Espionage: Navigating the Digital Battleground](https://www.linkedin.com/pulse/nation-state-cyber-espionage-navigating-digital-bruno-lima-gotbc/)
 - [The Evolution of Cyber Threats](https://www.linkedin.com/pulse/evolution-cyber-threats-bruno-lima-vgrxf)
+- [The Evolving Role of a SOC Analyst](https://www.linkedin.com/pulse/evolving-role-soc-analyst-bruno-lima-k3crc)
 
 <h2> ⚡ Certifications:</h2>
 
