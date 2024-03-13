@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bruno! <br/><a href="https://www.linkedin.com/in/-bruno-lima/">Cybersecurity Student</a> <ahref="https://www.linkedin.com/in/-bruno-lima/"></a></h1>
+<h1>Hi, I'm Bruno! <br/><a href="https://www.linkedin.com/in/-bruno-lima/">Cybersecurity Professional and Aspiring Cloud Engineer</a> <ahref="https://www.linkedin.com/in/-bruno-lima/"></a></h1>
 
 <h2>💡 Cybersecurity Projects:</h2>
 
