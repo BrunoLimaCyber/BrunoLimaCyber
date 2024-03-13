@@ -7,7 +7,19 @@
 - <b>Running my First Vulnerability Scan - BurpSuite </b>
   - [Exploring with BurpSuite Tools](https://github.com/BrunoLimaCyber/FirstVulnerabilityScan)
 
-<h2>📝 My Blogs:</h2>
+<h2>🌌 Cloud Projects (Coming Soon):</h2>
+
+<h2>🚀 Cloud Journey (Weekly Blogs Detailing My Cloud Learning Progress And Projects):</h2>
+
+- <b>Week 1 </b>
+  - [Cloud Fundamentals](https://medium.com/@brulima884/cloud-journey-week-1-fundamentals-d80a1c3381a5)
+- <b>Week 2 </b>
+  - [Git & Cloud Architecture](https://medium.com/@brulima884/cloud-journey-week-2-git-cloud-architecture-d18ee5291fbd)
+- <b>Week 3 </b>
+  - [System Design Applications](https://medium.com/@brulima884/cloud-journey-week-3-system-design-applications-24038de4fdd2)
+  
+
+<h2>📝 Other Blogs:</h2>
 
 - [Nation-State Cyber Espionage: Navigating the Digital Battleground](https://www.linkedin.com/pulse/nation-state-cyber-espionage-navigating-digital-bruno-lima-gotbc/)
 - [The Evolution of Cyber Threats](https://www.linkedin.com/pulse/evolution-cyber-threats-bruno-lima-vgrxf)
@@ -15,7 +27,7 @@
 
 <h2> ⚡ Certifications:</h2>
 
- <b>CompTIA Security+ (Expected: 12/23), </b> <b>CompTIA Network+, </b><b>Google IT Support Professional Certificate</b>
+ </b> <b>CompTIA Network+, </b><b>Google IT Support Professional Certificate</b>
 
 <h2> 🤳 Connect with me:</h2>
 
