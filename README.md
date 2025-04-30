@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bruno! <br/><a href="https://www.linkedin.com/in/-bruno-lima/">Cybersecurity Generalist Focused on Governance, Risk, and Compliance.</a> <ahref="https://www.linkedin.com/in/-bruno-lima/"></a></h1>
+<h1>Welcome, I'm Bruno! <br/><a href="https://www.linkedin.com/in/-bruno-lima/">A Cybersecurity Generalist focused on Governance, Risk, and Compliance.</a> <ahref="https://www.linkedin.com/in/-bruno-lima/"></a></h1>
 
 <h2>💡 Cybersecurity Projects:</h2>
 
@@ -7,9 +7,9 @@
 - <b>Running my First Vulnerability Scan - BurpSuite </b>
   - [Exploring with BurpSuite Tools](https://github.com/BrunoLimaCyber/FirstVulnerabilityScan)
 
-<h2>🌌 Cloud Projects (Coming Soon):</h2>
+<h2>🏆 Governance, Risk, and Compliance (GRC) Projects:</h2>
 
-<h2>🚀 Cloud Journey (Weekly Blogs Detailing My Cloud Learning Progress And Projects):</h2>
+<h2>🚀 Cloud Engineering Self-Study/Projects:</h2>
 
 - <b>Week 1 </b>
   - [Cloud Fundamentals](https://medium.com/@brulima884/cloud-journey-week-1-fundamentals-d80a1c3381a5)
@@ -27,7 +27,9 @@
 
 <h2> ⚡ Certifications:</h2>
 
- </b> <b>CompTIA Network+, </b><b>Google IT Support Professional Certificate</b>
+- <b>CompTIA Security+ </b>
+- <b>CompTIA Network+ </b>
+- <b>Google IT Support Professional Certificate </b>
 
 <h2> 🤳 Connect with me:</h2>
 
