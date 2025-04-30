@@ -9,6 +9,10 @@
 
 <h2>🏆 Governance, Risk, and Compliance (GRC) Projects:</h2>
 
+- <b>NIST CSF Framework </b>
+  - [Audit and Risk Assessment Practice Project](https://docs.google.com/spreadsheets/d/1K3Iw2NW_OM7PdIa6qZs_j1esu85uGxuS/edit?usp=sharing&ouid=118098774730159555200&rtpof=true&sd=true)
+
+
 <h2>🚀 Cloud Engineering Self-Study/Projects:</h2>
 
 - <b>Week 1 </b>
