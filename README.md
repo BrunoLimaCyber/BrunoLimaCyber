@@ -1,4 +1,4 @@
-<h1>Welcome, I'm Bruno! <br/><a href="https://www.linkedin.com/in/-bruno-lima/">A Cybersecurity Practitioner focused on Governance, Risk, and Compliance.</a> <ahref="https://www.linkedin.com/in/-bruno-lima/"></a></h1>
+<h1>Welcome, I'm Bruno! <br/><a href="https://www.linkedin.com/in/-bruno-lima/">A cybersecurity practitioner with a blend of sales.</a> <ahref="https://www.linkedin.com/in/-bruno-lima/"></a></h1>
 
 <h2>💡 Cybersecurity Projects:</h2>
 
